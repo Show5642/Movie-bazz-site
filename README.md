@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<!DOCTYPE html>📁 my-video-site/
+   ├── index.html
+   └── myvideo.mp4
 <html lang="bn">
 <head>
   <meta charset="UTF-8">
